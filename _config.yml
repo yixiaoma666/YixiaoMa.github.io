@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
@@ -52,3 +53,6 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 5c977e183fa9a7052ffa81d7587e1624fe14e3d4
